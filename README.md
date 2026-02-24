@@ -3,6 +3,7 @@
 Circuito generador de gotas de lluvia lumínicas y sonoras
 
 ![Foto de alguien manipulando la placa](./llluvia-foto.jpg)
+Fotografía por Carolina Miguieles en la inauguración de la muestra
 
 ## Descripción
 
